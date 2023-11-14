@@ -1,0 +1,320 @@
+.contact-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 410px;
+}
+.contact-us {
+  position: absolute;
+  top: 54.77px;
+  left: 648px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 206px;
+  height: 36.77px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 7.05px;
+  left: 419px;
+  width: 120px;
+  height: 93.89px;
+  object-fit: cover;
+}
+.image-1-icon,
+.image-2-icon {
+  top: 3.14px;
+  left: 204px;
+  width: 129px;
+  height: 100.94px;
+}
+.image-1-icon {
+  top: 0;
+  left: 0;
+  height: 101px;
+}
+.logo {
+  position: absolute;
+  top: 151px;
+  left: 450px;
+  width: 539px;
+  height: 104.08px;
+}
+.contact,
+.contact-item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.contact-item {
+  top: 381.05px;
+  background-color: var(--color-goldenrod);
+  height: 28.95px;
+}
+.contact {
+  top: 3955px;
+  height: 410px;
+}
+.portofolio-child,
+.portofolio-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.portofolio-child {
+  background-color: var(--color-goldenrod);
+  height: 813px;
+}
+.portofolio-item {
+  background-color: #eff0da;
+  height: 104px;
+}
+.my-portfolio {
+  position: absolute;
+  top: 28px;
+  left: calc(50% - 145px);
+}
+.whatsapp-image-2023-10-21-at-1 {
+  position: absolute;
+  top: 124px;
+  left: 59px;
+  border-radius: var(--br-xl);
+  width: 270px;
+  height: 601px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-10-21-at-11,
+.whatsapp-image-2023-10-21-at-12,
+.whatsapp-image-2023-10-21-at-13 {
+  position: absolute;
+  top: 141px;
+  left: 437px;
+  border-radius: var(--br-xl);
+  width: 215px;
+  height: 479px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-10-21-at-12,
+.whatsapp-image-2023-10-21-at-13 {
+  left: 1132px;
+  width: 239px;
+  height: 531px;
+}
+.whatsapp-image-2023-10-21-at-13 {
+  left: 720px;
+  width: 283px;
+  height: 629px;
+}
+.portofolio,
+.tentang-skil-child {
+  position: absolute;
+  top: 3141px;
+  left: 0;
+  width: 1440px;
+  height: 813px;
+}
+.tentang-skil-child {
+  top: 0;
+  background-color: var(--color-white);
+  height: 1050px;
+}
+.my-skill {
+  position: absolute;
+  top: 138px;
+  left: calc(50% - 74px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 148px;
+}
+.deskripsi-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: var(--color-goldenrod);
+  width: 458px;
+  height: 402px;
+}
+.mengembangkan-aplikasi {
+  margin: 0;
+}
+.mengembangkan-aplikasi-rent-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.mengembangkan-aplikasi-rent-container {
+  position: absolute;
+  top: 163px;
+  left: 12px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 433px;
+  height: 172px;
+}
+.junior-android-developer-container {
+  position: absolute;
+  top: 48px;
+  left: 84px;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  width: 289px;
+}
+.deskripsi {
+  position: absolute;
+  top: 301px;
+  left: 491px;
+  width: 458px;
+  height: 402px;
+  font-size: var(--font-size-5xl);
+}
+.aboutme-child,
+.background,
+.tentang-skil {
+  position: absolute;
+  top: 2075px;
+  left: 0;
+  width: 1440px;
+  height: 1050px;
+}
+.aboutme-child,
+.background {
+  top: 0;
+  background-color: var(--color-goldenrod);
+  height: 1049px;
+}
+.aboutme-child {
+  top: 154px;
+  left: 170px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 1100px;
+  height: 653px;
+}
+.hi-dear-saya-container {
+  position: absolute;
+  top: 481px;
+  left: 656px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 480px;
+  height: 112px;
+}
+.tentang-saya {
+  position: absolute;
+  top: 376px;
+  left: 794px;
+  font-size: var(--font-size-13xl);
+}
+.whatsapp-image-2023-10-21-at-14 {
+  position: absolute;
+  top: 289px;
+  left: 214px;
+  border-radius: 25px;
+  width: 435px;
+  height: 463px;
+  object-fit: cover;
+}
+.aboutme {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  width: 1440px;
+  height: 1049px;
+  font-size: var(--font-size-5xl);
+}
+.header-child,
+.pexels-jess-bailey-designs-743-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 937px;
+}
+.header-child {
+  background-color: #b0a3a3;
+}
+.pexels-jess-bailey-designs-743-icon {
+  object-fit: cover;
+}
+.header-item {
+  position: absolute;
+  top: 365px;
+  left: 529px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-goldenrod);
+  width: 432px;
+  height: 125px;
+}
+.lets-see {
+  position: absolute;
+  top: 407px;
+  left: 669px;
+}
+.header,
+.nav-child {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.header {
+  top: 87px;
+  height: 937px;
+  font-size: 36px;
+}
+.nav-child {
+  top: 0;
+  background-color: var(--color-goldenrod);
+  height: 85px;
+}
+.portofolio1 {
+  position: absolute;
+  top: 31px;
+  left: 745px;
+}
+.about,
+.contact-us1,
+.nav,
+.skill {
+  position: absolute;
+  top: 31px;
+  left: 878px;
+}
+.contact-us1,
+.nav,
+.skill {
+  left: 1013px;
+}
+.contact-us1,
+.nav {
+  left: 1129px;
+}
+.nav {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+  
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4365px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
